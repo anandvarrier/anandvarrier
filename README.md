@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anand varrier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand varrier" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/anand varrier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anand varrier" height="30" width="40" /></a>
-<a href="https://kaggle.com/anand varrier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anand varrier" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/anand varrier](https://www.linkedin.com/in/anand-varrier/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anand varrier" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/anand varrier](https://stackoverflow.com/users/20784271/anand-varrier)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="anand varrier" height="30" width="40" /></a>
+<a href="[https://kaggle.com/anand varrier](https://www.kaggle.com/anandvarrier)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anand varrier" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
