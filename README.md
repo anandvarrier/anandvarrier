@@ -1,4 +1,4 @@
-![logo](https://github.com/anandvarrier/anandvarrier/blob/main/githubbg.png)
+<!--![logo](https://github.com/anandvarrier/anandvarrier/blob/main/githubbg.png)-->
 <h1 align="center">Hi 👋, I'm Anand Varrier</h1>
 <h3 align="center">A good problem solver. I love to indulge myself in creating projects and learn from it.</h3>
 
