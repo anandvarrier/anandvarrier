@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Artificial Intelligence.**
 
-- 🌱 I’m currently learning **Data Engineering and LangChain Framework**
+- 🌱 I’m currently learning **Big Data and ML algorithms**
 
-- 📫 How to reach me **anand.varrier98@gmail.com**
+- 📫 You can reach out to me: **anand.varrier98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
